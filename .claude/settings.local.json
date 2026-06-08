@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter analyze *)",
+      "Bash(npx skills *)",
+      "PowerShell(npx skills add emilkowalski/skill)",
+      "mcp__ide__getDiagnostics",
+      "Skill(run)",
+      "Bash(flutter devices *)",
+      "Bash(flutter run *)",
+      "Bash(gh auth *)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(gh repo *)"
+    ]
+  }
+}
